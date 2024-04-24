@@ -2,7 +2,7 @@
 // until the webpage is running on localhost then the variable is stored in the main memory (RAM)
 // Camel Case - userName, userIntro (JS)
 // Snake Case - yash_chavan, god_mode  (C/C++) 
-// Pascal Case - UserName, Mylaptop
+// Pascal Case - YashChavan, UserName
 
 // Different ways to create a variable
 // 1. let - to define any varaible
@@ -76,5 +76,5 @@ console.log(letname)  // this will not be able to access the letname as let is b
 // 3. only 2 special characters - underscore _ and dollar $ (can also use in start)
 
 
-// yash
+
 
