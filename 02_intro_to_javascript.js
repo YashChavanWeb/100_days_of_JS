@@ -19,7 +19,7 @@ console.log(7+6)
 
 
 // Important:
-// if we write script tag above the body, then it first renders entire js and then moves to HTML
+// if we write script tag above the body, then it first renders entire js and then moves to HTML (no html so where are the elements??)
 // to avoid this we use defer keyword which completes HTML and then loads JS - DOM - interact with HTML
 // <script src="script.js" defer> </script> 
 
