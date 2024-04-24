@@ -46,8 +46,8 @@ console.log(+true)  // to convert boolean to a number
 // true = 1, false = 0
 
 // Undefined & Null
-// undefined - not declared
-// null - declared but value is not given
+// undefined - just declared
+// null - declared but value is given as null (nothing)
 console.log(+null)  // converted to number - 0
 console.log(+undefined)  // converted to a invalid number
 
