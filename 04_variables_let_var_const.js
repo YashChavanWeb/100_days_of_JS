@@ -2,8 +2,7 @@
 // until the webpage is running on localhost then the variable is stored in the main memory (RAM)
 // Camel Case - userName, userIntro (JS)
 // Snake Case - yash_chavan, god_mode  (C/C++) 
-// Pascal Case - UserName, MyLaptop
-
+// Pascal Case - UserName, Mylaptop
 
 // Different ways to create a variable
 // 1. let - to define any varaible
