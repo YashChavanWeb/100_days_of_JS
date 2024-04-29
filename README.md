@@ -6,3 +6,4 @@
 ## 04_variables_let_var_const
 ## 05_code_execution_of_javascript
 ## 06_dialog_boxes
+## 07_template_literals_string_props
