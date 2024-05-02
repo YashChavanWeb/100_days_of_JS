@@ -15,3 +15,5 @@
 ## 07_template_literals_string_props
 
 ## 08_math_object
+
+## 09_truthy_and_falsy_value
