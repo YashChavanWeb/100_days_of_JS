@@ -17,3 +17,5 @@
 ## 08_math_object
 
 ## 09_truthy_and_falsy_value
+
+## 010_comparison_operators
