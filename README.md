@@ -19,3 +19,5 @@
 ## 09_truthy_and_falsy_value
 
 ## 010_comparison_operators
+
+## 011_logical_operators
