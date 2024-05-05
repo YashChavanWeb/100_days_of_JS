@@ -1,18 +1,26 @@
-# JavaScript Basics
+# JavaScript Concepts 100 Days Course
 
-This repository contains beginner-friendly resources and code snippets for learning JavaScript fundamentals.
+Welcome to my JavaScript Concepts 100 Days Course repository! This repository is designed to guide beginners through the fundamentals of JavaScript, providing a structured learning path over 100 days.
 
-## Table of Contents
+## Progress
 
-1. [History of JavaScript](#history-of-javascript)
-2. [Introduction to JavaScript](#introduction-to-javascript)
-3. [Data Types](#data-types)
-4. [Variables: let, var, const](#variables-let-var-const)
-5. [Code Execution of JavaScript](#code-execution-of-javascript)
-6. [Dialog Boxes](#dialog-boxes)
-7. [Template Literals and String Properties](#template-literals-string-props)
-8. [Math Object](#math-object)
-9. [Truthy and Falsy Values](#truthy-and-falsy-values)
-10. [Comparison Operators](#comparison-operators)
-11. [Logical Operators](#logical-operators)
-12. [Decision Making using if Statements](#decision-making-using-if)
+- **Day 1:** History of JavaScript
+- **Day 2:** Introduction to JavaScript
+- **Day 3:** Data Types in JavaScript
+- **Day 4:** Variables: let, var, const
+- **Day 5:** Code Execution of JavaScript
+- **Day 6:** Dialog Boxes
+- **Day 7:** Template Literals & String Properties
+- **Day 8:** Math Object
+- **Day 9:** Truthy and falsy value
+- **Day 10:** Comparison Operators
+- **Day 11:** Logical Operators
+- **Day 12:** Decision Making using if
+
+Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
+
+## Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Excellent resource for learning JavaScript.
+
+Happy coding! 🚀

@@ -37,7 +37,7 @@ console.log(Math.floor(-3.67))  // gives -4 brings to the lower one
 
 // ceil function - moves one step further and removes decimal
 console.log(Math.ceil(2.1))   // it becomes 3
-console.log(Math.ceil(-2.1))   // it remains the same
+console.log(Math.ceil(-2.1))   // it remains the same  i.e. -2
 
 // round function - .5 or more then round to greater, if not remains same no
 console.log(Math.round(2.3))   // 2
