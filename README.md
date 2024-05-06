@@ -16,6 +16,7 @@ Welcome to my JavaScript Concepts 100 Days Course repository! This repository is
 - **Day 10:** Comparison Operators
 - **Day 11:** Logical Operators
 - **Day 12:** Decision Making using if
+- **Day 12:** Optimized Decision Making using if else
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
