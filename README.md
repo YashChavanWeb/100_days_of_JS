@@ -18,6 +18,7 @@ Welcome to my JavaScript Concepts 100 Days Course repository! This repository is
 - **Day 12:** Decision Making using if
 - **Day 13:** Optimized Decision Making using if else
 - **Day 14:** Nested if else
+- **Day 15:** Switch Case
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
