@@ -82,5 +82,9 @@ switch (true) {
 // Note: if the case variable matches with the switch variable then it will execute
 // if there are multiple cases with the same values then it gives the first encountered case output
 
-// Note: false is not strictly equal to null
+// Note: false is strictly not equal to null
+//  even though false and null both have falsy values, switch doesn't consider them as equal
+//  switch requires exact match uppercase / lowercase only one not both 'a'  != 'A'
+
+
 
