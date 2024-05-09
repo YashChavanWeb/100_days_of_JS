@@ -20,7 +20,6 @@ console.log(`${userGender.toUpperCase() === 'F' ? 'She' : 'He'} is a college stu
 
 
 
-
 // multiple ternary operator (optional part so don't worry)
 const yash = (null ? 'Yash' : ('Chavan' ? '1' : '2'));
 console.log(yash)
