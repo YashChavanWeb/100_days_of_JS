@@ -25,6 +25,7 @@ This challenge is meticulously designed to provide a comprehensive understanding
 - **Day 15:** Switch Case
 - **Day 16:** Ternary Operator (Optimized `if else` Syntax)
 - **Day 17:** Variable Address in Dev Tools (Execution Phase)
+- **Day 18:** Objects in JavaScript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
