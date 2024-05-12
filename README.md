@@ -27,6 +27,7 @@ This challenge is meticulously designed to provide a comprehensive understanding
 - **Day 17:** Variable Address in Dev Tools (Execution Phase)
 - **Day 18:** Objects in JavaScript
 - **Day 19:** Seal and Freeze in Objects
+- **Day 20:** Arrays in JavaScript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
