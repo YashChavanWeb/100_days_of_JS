@@ -8,14 +8,22 @@ This challenge is meticulously designed to provide a comprehensive understanding
 
 ## Progress
 
+_01_Fundamentals_
+
 - **Day 1:** History of JavaScript
 - **Day 2:** Introduction to JavaScript
 - **Day 3:** Data Types in JavaScript
 - **Day 4:** Variables: `let`, `var`, `const`
 - **Day 5:** Code Execution in JavaScript
+
+_02_Essential_Concepts_
+
 - **Day 6:** Dialog Boxes
 - **Day 7:** Template Literals & String Properties
 - **Day 8:** Math Object
+
+_03_Conditionals_and_Operators_
+
 - **Day 9:** Truthy and Falsy Values
 - **Day 10:** Comparison Operators
 - **Day 11:** Logical Operators
@@ -24,6 +32,9 @@ This challenge is meticulously designed to provide a comprehensive understanding
 - **Day 14:** Nested `if else` Statements
 - **Day 15:** Switch Case
 - **Day 16:** Ternary Operator (Optimized `if else` Syntax)
+
+_04_Arrays_and_Objects_in_Depts_
+
 - **Day 17:** Variable Address in Dev Tools (Execution Phase)
 - **Day 18:** Objects in JavaScript
 - **Day 19:** Seal and Freeze in Objects
