@@ -33,7 +33,7 @@ _03_Conditionals_and_Operators_
 - **Day 15:** Switch Case
 - **Day 16:** Ternary Operator (Optimized `if else` Syntax)
 
-_04_Arrays_and_Objects_in_Depts_
+_04_Arrays_and_Objects_in_Depth_
 
 - **Day 17:** Variable Address in Dev Tools (Execution Phase)
 - **Day 18:** Objects in JavaScript
