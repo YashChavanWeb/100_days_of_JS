@@ -123,20 +123,3 @@ let months = ['January', 'February', 'March', 'April', 'May'];
 let removedMonths = months.splice(2, 2, 'June', 'July');
 console.log(removedMonths); // Output: ['March', 'April']
 console.log(months); // Output: ['January', 'February', 'June', 'July', 'May']
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
