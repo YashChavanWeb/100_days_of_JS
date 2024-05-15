@@ -39,6 +39,7 @@ _04_Arrays_and_Objects_in_Depth_
 - **Day 18:** Objects in JavaScript
 - **Day 19:** Seal and Freeze in Objects
 - **Day 20:** Arrays in JavaScript
+- **Day 21:** Common Array Methods
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
