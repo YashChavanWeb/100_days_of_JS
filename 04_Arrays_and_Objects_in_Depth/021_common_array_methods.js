@@ -12,10 +12,6 @@
 
 
 
-
-
-
-
 const evenNumbers = [0, 2, 4, 6, 8]
 
 evenNumbers.pop()    // remove elements from behind
