@@ -41,6 +41,11 @@ _04_Arrays_and_Objects_in_Depth_
 - **Day 20:** Arrays in JavaScript
 - **Day 21:** Common Array Methods
 - **Day 22:** Multi-Dimensional Arrays
+- **Day 23:** Shallow and Deep Copy
+
+_04_Arrays_and_Objects_in_Depth_
+
+- **Day 24:** Compound Operators in JavaScript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
