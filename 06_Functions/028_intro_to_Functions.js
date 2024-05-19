@@ -14,7 +14,6 @@ console.log(introduceYourSelf())   // it will run the function
 
 
 
-
 // Note: Function can do two things:
 // 1. run the code that we have written
 // 2. return a value / result
