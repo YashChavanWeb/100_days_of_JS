@@ -50,6 +50,10 @@ _04_Arrays_and_Objects_in_Depth_
 - **Day 26:** for Loop
 - **Day 27:** do-while Loop
 
+_06_Functions_
+
+- **Day 28:** Introduction to Functions
+
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
 ## Resources
