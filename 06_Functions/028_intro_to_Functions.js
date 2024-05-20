@@ -1,3 +1,19 @@
+// Functions are used to use the block of code multiple times
+
+// Basic Terminologies
+
+function firstFunction() { }    // function definition
+function firstFunction(name) { }    // declaring parameter in function
+firstFunction()     // function call 
+firstFunction('Yash')     // arguments
+
+
+
+
+
+
+
+
 function introduceYourSelf() {
     console.log('My name is yash')
     console.log('I am an upcoming Web Developer')
@@ -29,16 +45,6 @@ introduceYourSelf()
 // - we can also pass arguments inside a function but it will ignore it until the function will have parameters
 // - the type of argument that we pass will become the type of the parameter ijn function
 
-
-
-
-
-
-// Basic Terminologies
-function firstFunction() { }    // function definition
-function firstFunction(name) { }    // declaring parameter in function
-firstFunction()     // function call 
-firstFunction('Yash')     // arguments
 
 
 

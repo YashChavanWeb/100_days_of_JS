@@ -53,6 +53,7 @@ _04_Arrays_and_Objects_in_Depth_
 _06_Functions_
 
 - **Day 28:** Introduction to Functions
+- **Day 29:** Return Keyword
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
