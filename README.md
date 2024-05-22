@@ -55,6 +55,7 @@ _06_Functions_
 - **Day 28:** Introduction to Functions
 - **Day 29:** Return Keyword
 - **Day 30:** Execution Context
+- **Day 31:** Call Stack
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
