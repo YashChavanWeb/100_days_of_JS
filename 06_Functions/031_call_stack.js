@@ -1,3 +1,8 @@
+// Note: Refer the Visualization 
+
+
+
+
 // What is call stack ?
 
 // - it is a mechanism through which js engine tracks on which line it is executing the code
