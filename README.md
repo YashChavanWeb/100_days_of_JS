@@ -43,7 +43,7 @@ _04_Arrays_and_Objects_in_Depth_
 - **Day 22:** Multi-Dimensional Arrays
 - **Day 23:** Shallow and Deep Copy
 
-_04_Arrays_and_Objects_in_Depth_
+_05_Basics_and_Loops_
 
 - **Day 24:** Compound Operators in JavaScript
 - **Day 25:** while Loop
