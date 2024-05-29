@@ -7,14 +7,14 @@
 
 // Printing in javascript
 console.log("Hello World")
-console.log(7+6)
+console.log(7 + 6)
 
 
 
 // Connecting HTML and JS:
 // 1. We can write js in script tag after body tag of HTML
 // 2. We can also connect js file to html by writing below syntax in head tag
-// <script src="script.js"> </script> 
+// <script src="script.js"> </script>
 
 
 

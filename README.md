@@ -56,6 +56,10 @@ _06_Functions_
 - **Day 29:** Return Keyword
 - **Day 30:** Execution Context
 - **Day 31:** Call Stack
+- **Day 32:** Hoisting in JavaScript
+- **Day 33:** Global and Local Scope
+- **Day 34:** Lexical and Block Scope
+- **Day 35:** Higher order Functions and callbacks
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
