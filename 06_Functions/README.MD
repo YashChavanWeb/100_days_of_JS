@@ -11,3 +11,4 @@ _06_Functions_
 - **Day 36:** Set Timeout and Set Interval
 - **Day 37:** Event Loop and Callback Queue
 - **Day 38:** Returning functions and closures
+- **Day 39:** Functions vs Methods
