@@ -1,7 +1,7 @@
 // Note: Refer the Visualization
 
 
-sssssss
+
 // 1. Global Execution Context - Memory Creation Phase + Code Execution Phase
 // 2. Each function has its own execution context
 
