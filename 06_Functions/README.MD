@@ -12,3 +12,4 @@ _06_Functions_
 - **Day 37:** Event Loop and Callback Queue
 - **Day 38:** Returning functions and closures
 - **Day 39:** Functions vs Methods
+- **Day 40:** Arrow Functions
