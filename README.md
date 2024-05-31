@@ -69,6 +69,7 @@ _06_Functions_
 _07_ES6_Concepts_
 
 - **Day 41:** for...of and for...in loop
+- **Day 42:** for...each loop
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
