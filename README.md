@@ -74,6 +74,7 @@ _07_ES6_Concepts_
 - **Day 44:** some and every
 - **Day 45:** Arguments keyword in JS
 - **Day 46:** Default Parameters
+- **Day 47:** Spread Operator
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
