@@ -72,6 +72,7 @@ _07_ES6_Concepts_
 - **Day 42:** for...each loop
 - **Day 43:** Map, Filter and Reduce
 - **Day 44:** some and every
+- **Day 45:** Arguments keyword in JS
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
