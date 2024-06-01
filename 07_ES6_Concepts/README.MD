@@ -8,3 +8,4 @@ _07_ES6_Concepts_
 - **Day 46:** Default Parameters
 - **Day 47:** Spread Operator
 - **Day 48:** Rest Parameters
+- **Day 49:** Destructuring
