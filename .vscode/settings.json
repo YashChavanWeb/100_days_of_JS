@@ -1,7 +1,4 @@
 {
-    "cSpell.words": [
-        "Kamal",
-        "Sarth",
-        "Vivek"
-    ]
+  "cSpell.words": ["Kamal", "Sarth", "Vivek"],
+  "git.ignoreLimitWarning": true
 }
