@@ -7,3 +7,4 @@ _07_ES6_Concepts_
 - **Day 45:** Arguments keyword in JS
 - **Day 46:** Default Parameters
 - **Day 47:** Spread Operator
+- **Day 48:** Rest Parameters
