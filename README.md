@@ -77,13 +77,12 @@ _07_ES6_Concepts_
 - **Day 47:** Spread Operator
 - **Day 48:** Rest Parameters
 - **Day 49:** Destructuring
-- **Day 49:** Destructuring
-- **Day 49:** Destructuring
 
 _07_DOM_
 
 - **Day 50:** BOM - Browser Object Model
 - **Day 51:** DOM - Document Object Model
+- **Day 52:** DOM - Selecting Elements with JavaScript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
