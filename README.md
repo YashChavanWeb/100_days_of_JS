@@ -83,6 +83,7 @@ _07_DOM_
 - **Day 50:** BOM - Browser Object Model
 - **Day 51:** DOM - Document Object Model
 - **Day 52:** DOM - Selecting Elements with JavaScript
+- **Day 53:** DOM - Difference in Texts
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
