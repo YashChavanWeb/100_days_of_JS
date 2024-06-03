@@ -1,0 +1,9 @@
+
+/* here we create a new class which is not yet given to the anchor attributes */
+
+.heading-css {
+    color: blue;
+    background-color: red;
+    font-family: cursive;
+    border: 2px solid pink;
+}
