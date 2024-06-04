@@ -78,7 +78,7 @@ _07_ES6_Concepts_
 - **Day 48:** Rest Parameters
 - **Day 49:** Destructuring
 
-_07_DOM_
+_08_DOM_
 
 - **Day 50:** BOM - Browser Object Model
 - **Day 51:** DOM - Document Object Model
@@ -92,9 +92,10 @@ _07_DOM_
 - **Day 59:** Create Element in JavaScript
 - **Day 60:** Remove Elements using Javascript
 
-_08_Events_in_JavaScript_
+_09_Events_in_JavaScript_
 
 - **Day 61:** Event Listener in Javascript
+- **Day 62:** Form Events and Event Object
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
