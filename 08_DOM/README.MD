@@ -10,3 +10,4 @@ _07_DOM_
 - **Day 57:** Element vs Node
 - **Day 58:** Append vs Append Child
 - **Day 59:** Create Element in JavaScript
+- **Day 60:** Remove Elements using Javascript

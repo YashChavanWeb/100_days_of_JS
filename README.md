@@ -90,6 +90,7 @@ _07_DOM_
 - **Day 57:** Element vs Node
 - **Day 58:** Append vs Append Child
 - **Day 59:** Create Element in JavaScript
+- **Day 60:** Remove Elements using Javascript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
