@@ -7,3 +7,6 @@ _07_DOM_
 - **Day 54:** Set and Get Attribute
 - **Day 55:** Adding styles in JavaScript
 - **Day 56:** Accessing Parent, Children and Sibling
+- **Day 57:** Element vs Node
+- **Day 58:** Append vs Append Child
+- **Day 59:** Create Element in JavaScript
