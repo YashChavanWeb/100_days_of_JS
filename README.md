@@ -92,6 +92,10 @@ _07_DOM_
 - **Day 59:** Create Element in JavaScript
 - **Day 60:** Remove Elements using Javascript
 
+_08_Events_in_JavaScript_
+
+- **Day 61:** Event Listener in Javascript
+
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
 ## Resources
