@@ -96,6 +96,7 @@ _09_Events_in_JavaScript_
 
 - **Day 61:** Event Listener in Javascript
 - **Day 62:** Form Events and Event Object
+- **Day 63:** Keyboard Events
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
