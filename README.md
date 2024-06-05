@@ -99,6 +99,7 @@ _09_Events_in_JavaScript_
 - **Day 63:** Keyboard Events
 - **Day 64:** Mouse Events
 - **Day 65:** Event Bubbling and Event Capturing
+- **Day 66:** Event Simulation in JavaScript
 
 Feel free to clone this repository and embark on your own learning journey. If you encounter any errors or have suggestions for improvement, please don't hesitate to open an issue or submit a pull request.
 
