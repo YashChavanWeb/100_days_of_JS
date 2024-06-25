@@ -55,7 +55,7 @@ console.table({ user2, user1 });
 
 
 // But the above is an old and lengthy method so we use Spread Operator (ES6)
-const user3 = { ...user1 }
+const user3 = {...user1  }
 console.log(user3)
 
 

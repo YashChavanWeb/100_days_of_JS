@@ -1,0 +1,134 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #edfcdc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    color: #4caf50;
+    font-size: 2em;
+    margin: 0;
+}
+
+.header h1 span {
+    color: #6c473a;
+}
+
+.container {
+    background-color: #f4fff4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.goals-box {
+    background-color: #f4fff4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #333;
+    font-size: 1.8em;
+    margin: 0;
+}
+
+h2 span {
+    font-size: 1.2em;
+}
+
+.instruction {
+    color: #666;
+    margin: 10px 0;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #d0f3c8;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 26px 0px ;
+    padding: 0.2em;
+    box-shadow: 1px 2px 8px 0px rgb(199, 243, 199);
+}
+
+.progress {
+    height: 10px;
+    width: 0;
+    background-color: #42ed48;
+    transition: width 0.3s ease;
+}
+
+.error-message {
+    color: #f95855;
+    font-weight: bold;
+    margin: 16px 0;
+    margin-left: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.goal {
+    position: relative;
+    margin: 10px 0;
+    max-width: 70px;
+}
+
+.goal input[type="checkbox"] {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+.goal input[type="text"] {
+    flex: 1;
+    padding-left: 40px; /* Adjusted to make space for the checkbox */
+    border: 0.1rem solid #dcf3c4;
+    border-radius: 0.2rem;
+    font-size: 1em;
+    height: 45px;
+    width: 300px;
+}
+
+.footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #333;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.credits {
+    margin-top: 10px;
+    font-size: 0.8em;
+    color: #999;
+    text-align: center;
+}
+
+.gupta {
+    background-color: #f8f8f8; /* Light gray background */
+    border: 1px solid #ccc; /* Light gray border */
+    color: black; /* Dark text color */
+    padding: 8px 12px; /* Padding inside the input field */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+    transition: border-color 0.3s, box-shadow 0.3s; /* Smooth transition for border and shadow */
+}
+
+
+

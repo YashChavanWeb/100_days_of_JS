@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Focus on Today</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Focus on <span>Today</span></h1>
+    </div>
+    <div class="container">
+        <div class="goals-box">
+            <h2>Today <span style='font-size:35px;'>&#127774;</span></h2>
+            <p class="instruction">Raise the bar by completing your goals!</p>
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+            <p class="error-message">Please set all the 3 goals!</p>
+
+
+            <form>
+                <div class="goal">
+                    <input type="checkbox" id="goal1" disabled>
+                    <input class="gupta" type="text" placeholder="Add new goal..."
+                        oninput="enableCheckbox(this, 'goal1')">
+                </div>
+                <div class="goal">
+                    <input type="checkbox" id="goal2" disabled>
+                    <input class="gupta" type="text" placeholder="Add new goal..."
+                        oninput="enableCheckbox(this, 'goal2')">
+                </div>
+                <div class="goal">
+                    <input type="checkbox" id="goal3" disabled>
+                    <input class="gupta" type="text" placeholder="Add new goal..."
+                        oninput="enableCheckbox(this, 'goal3')">
+                </div>
+            </form>
+            <p class="footer">"Move one step ahead, today!"</p>
+            <p class="credits">Made with <span style="font-size:18px;color:red;">&hearts;</span> by You</p>
+        </div>
+    </div>
+</body>
+
+</html>

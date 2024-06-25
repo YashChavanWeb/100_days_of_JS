@@ -12,7 +12,7 @@
 
 
 // Note:
-console.log(typeof(typeof(4+3))) // type of this will be a string
+console.log(typeof (typeof (4 + 3))) // type of this will be a string
 
 
 

@@ -19,10 +19,10 @@ console.log(typeof isHappy) // boolean
 
 // Adding of strings
 let remain = "is a god"
-let newuser1 = username  + remain
+let newuser1 = username + remain
 console.log(newuser1)
 
-let newuser2 = username  + "is a god"
+let newuser2 = username + "is a god"
 console.log(newuser2)
 
 let first = "yash", last = "chavan"

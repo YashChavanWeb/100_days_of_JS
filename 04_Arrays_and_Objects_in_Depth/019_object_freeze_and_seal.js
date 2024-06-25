@@ -38,7 +38,7 @@ console.log(user1)
 Object.seal(user1)
 delete user1.age     // this will return false as we cannot now delete the  
 console.log(user1)
-user1.age = 100 // but here we can add / change the existing values
+user1.age = 100 // but here we can change the existing values
 console.log(user1)
 user1.age = 20 // resetting the address
 
